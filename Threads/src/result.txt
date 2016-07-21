@@ -1,0 +1,6 @@
+Thread ID: 18 "testfile1.txt" has 9 words. 
+
+Thread ID: 19 "testfile2.txt" has 12 words. 
+
+Thread ID: 20 "testfile3.txt" has 15 words. 
+

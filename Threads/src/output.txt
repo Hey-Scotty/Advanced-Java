@@ -1,0 +1,34 @@
+Thread ID: 19 "testfile.txt" has 9 words. 
+
+Thread ID: 20 "testfile.txt" has 9 words. 
+
+Thread ID: 18 "testfile.txt" has 9 words. 
+
+Thread ID: 19 "testfile.txt" has 9 words. 
+
+Thread ID: 18 "testfile.txt" has 9 words. 
+
+Thread ID: 19 "testfile.txt" has 9 words. 
+
+Thread ID: 20 "testfile.txt" has 9 words. 
+
+Thread ID: 18 "testfile.txt" has 9 words. 
+
+Thread ID: 19 "testfile.txt" has 9 words. 
+
+Thread ID: 20 "testfile.txt" has 9 words. 
+
+Thread ID: 18 "testfile.txt" has 9 words. 
+
+Thread ID: 19 "testfile.txt" has 9 words. 
+
+Thread ID: 20 "testfile.txt" has 9 words. 
+
+Thread ID: 21 "testfile.txt" has 9 words. 
+
+Thread ID: 18 "testfile.txt" has 9 words. 
+
+Thread ID: 19 "testfile.txt" has 9 words. 
+
+Thread ID: 20 "testfile.txt" has 9 words. 
+
